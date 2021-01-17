@@ -11,8 +11,8 @@ This github repository contains the rails app that serves as a simple image repo
 4.  Run ``rails s`` to start the server
 
 ## Usage
-The application accepts images as formdata, posted to /images
-Using postman might look something like this:
+The application accepts images as formdata, posted to /images \
+An example using postman:
 ![postman_example](postman_example.png)
 
 
